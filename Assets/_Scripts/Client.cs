@@ -11,6 +11,9 @@ using System.Net.Sockets;
 using System.Threading;
 using UnityEngine;
 
+/// <summary>
+/// 客户的
+/// </summary>
 public class Client : MonoBehaviour
 {
     private static Client _instance;
